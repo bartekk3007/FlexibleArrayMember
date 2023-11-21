@@ -1,2 +1,2 @@
 # FlexibleArrayMember
-Small code showing interesting C feature flexible array member
+Small code showing interesting C feature - flexible array member
